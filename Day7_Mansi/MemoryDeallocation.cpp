@@ -23,6 +23,5 @@ int main()
     delete ptr1;
     delete[] a2;
     delete a3;
-
     return 0;
 }

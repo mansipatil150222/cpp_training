@@ -18,7 +18,6 @@ class ABC{
 		cout<<"inside add fun which returns"<<endl;
 		return temp;
 	}
-
 };
 int main(){
 	ABC obj1;
