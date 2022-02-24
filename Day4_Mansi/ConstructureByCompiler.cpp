@@ -18,11 +18,6 @@ class ABC{
 		cout<<"inside add fun which returns"<<endl;
 		return temp;
 	}
-	ABC addret(){
-		ABC temp;
-		cout<<"inside add fun which returns diff"<<endl;
-		return temp;
-	}
 };
 int main(){
 	ABC obj1;
