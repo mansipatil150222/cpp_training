@@ -6,6 +6,9 @@ class base{
     base(){
         cout<<"\nbase class default constructor";
     }
+    base(int n){
+        cout<<"\nbase class parameterized constructor";
+    }
     ~base(){
         cout<<"\nbase class default distructor";
     }
