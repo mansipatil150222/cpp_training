@@ -1,0 +1,4 @@
+fname lname marks
+mansi patil 10 
+krinal amipara 20 
+khushi mordani 30
