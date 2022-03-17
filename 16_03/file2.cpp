@@ -5,7 +5,7 @@ int main()
 {
     char line[100];
     fstream file;
-    file.open("student.dat",ios::out|ios::app);
+    file.open("data1.txt",ios::out|ios::app);
     if(file.fail())
         cout<<"file did not open"<<endl;
     else{
