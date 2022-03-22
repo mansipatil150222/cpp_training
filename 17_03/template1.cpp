@@ -10,7 +10,7 @@ T fun_name (T argument){
 using namespace std;
 template <class T,typename U>
 void mul(T num1, U num2){
-    cout<<"REsult "<<num1*num2<<endl;
+    cout<<"Result "<<num1*num2<<endl;
 }
 int main(){
     int A=10, B=20;
