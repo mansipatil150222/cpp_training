@@ -3,4 +3,6 @@ Standard Template Library(STL)
 1. Containers
 2. Algorithms
 3. Iterators
-- 
+- #include<vector>
+- vector<of what>
+e.g., vector<int>
