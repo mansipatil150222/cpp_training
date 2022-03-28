@@ -41,10 +41,6 @@ int main()
             cout<<subset[i][j]<<" ";
         }
         cout<<endl;
-    }
-
-    //sort(gquiz[0].begin(), gquiz[0].end());
-
-    
+    }  
 	return 0;
 }
