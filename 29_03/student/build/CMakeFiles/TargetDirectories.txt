@@ -1,0 +1,3 @@
+/home/mansi/Desktop/cpp_Program/29_03/student/build/CMakeFiles/rebuild_cache.dir
+/home/mansi/Desktop/cpp_Program/29_03/student/build/CMakeFiles/edit_cache.dir
+/home/mansi/Desktop/cpp_Program/29_03/student/build/CMakeFiles/testStudent.dir
